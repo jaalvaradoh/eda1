@@ -3,7 +3,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-st.set_page_config(page_title="Exploración de Datos", layout="wide")
+st.set_page_config(page_title="Exploración de Datos") #, layout="wide")
 
 st.title("📊 Exploración de Datos con Streamlit")
 
